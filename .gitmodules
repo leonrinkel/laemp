@@ -1,0 +1,3 @@
+[submodule "kicad-netlabels"]
+	path = kicad-netlabels
+	url = git@github.com:leonrinkel/kicad-netlabels.git
